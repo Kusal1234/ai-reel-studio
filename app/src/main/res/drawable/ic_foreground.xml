@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- 9:16 reel frame -->
+    <path android:fillColor="#9277FF"
+        android:pathData="M38,26h32a4,4 0 0 1 4,4v48a4,4 0 0 1 -4,4h-32a4,4 0 0 1 -4,-4v-48a4,4 0 0 1 4,-4z"/>
+    <path android:fillColor="#17152B"
+        android:pathData="M40,32h28v44h-28z"/>
+    <!-- play triangle -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M48,44l14,10l-14,10z"/>
+</vector>
